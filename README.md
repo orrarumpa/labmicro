@@ -1,4 +1,4 @@
-# Microncontroller's conclusion
+# Microcontroller's conclusion
 รวบรวมข้อมูลและสรุปตั้งแต่การทดลองที่1ถึงการทดลองที่3
 ------------------------------
 - บทสรุปการทดลองที่1: การต่อวงจรและติดตั้งโปรแกรมบน Microcontroller ESP32
